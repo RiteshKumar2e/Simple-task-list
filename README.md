@@ -27,7 +27,6 @@ CSV Persistence: All tasks are saved in a tasks.csv file for persistent storage.
 # Prerequisites
 
 Make sure you have Python installed along with the required libraries:
-You can install pandas and scikit learn using pip:
 ```bash
 pip install pandas 
 
