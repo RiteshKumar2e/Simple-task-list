@@ -23,3 +23,9 @@ Pandas: To manage and store tasks in a CSV file.
 Scikit-learn: For a machine learning pipeline that trains a Naive Bayes classifier on task descriptions and priorities.
 
 CSV Persistence: All tasks are saved in a tasks.csv file for persistent storage.
+
+# Prerequisites
+
+Make sure you have Python installed along with the required libraries:
+pip install pandas 
+pip install scikit-learn
