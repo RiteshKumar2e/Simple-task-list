@@ -38,3 +38,7 @@ pip install scikit-learn
 
 ![image](https://github.com/user-attachments/assets/47b4664e-97c4-4a06-8505-60cf5b5de38b)
 
+![image](https://github.com/user-attachments/assets/123905e4-bf78-4e7b-b49e-3cb4226eee14)
+
+![image](https://github.com/user-attachments/assets/33aab7ce-0be3-44db-a768-ecd7bafad065)
+
