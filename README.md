@@ -12,15 +12,15 @@ This application simplifies task management by combining traditional task operat
 - Validates the priority input and ensures that both the description and priority are entered before adding the task.
 - The task is saved in a local CSV file (tasks.csv) for persistence.
 2. Remove Task
-Users can remove a task by entering its description.
-The app checks for the specified task and removes it from the task list.
+- Users can remove a task by entering its description.
+- The app checks for the specified task and removes it from the task list.
 3. List Tasks
-Displays a list of all tasks, including their descriptions and priorities, in a formatted popup window.
+- Displays a list of all tasks, including their descriptions and priorities, in a formatted popup window.
 4. Recommend Task
-Recommends a random high-priority task if available.
-Provides an alert if there are no high-priority tasks or if the task list is empty.
+- Recommends a random high-priority task if available.
+- Provides an alert if there are no high-priority tasks or if the task list is empty.
 5. Exit
-Safely exits the application.
+- Safely exits the application.
 
 # How It Works
 
