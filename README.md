@@ -46,9 +46,13 @@ pip install scikit-learn
 The GUI consists of a main window with the following buttons:
 
 Add Task: Opens a new window with a text box for entering task descriptions and a field for specifying the priority.
+
 Remove Task: Directly prompts the user to input the task description for removal.
+
 List Tasks: Shows all tasks in a pop-up dialog box.
+
 Recommend Task: Recommends a high-priority task in a pop-up dialog box.
+
 Exit: Closes the application.
 
 # Output 
