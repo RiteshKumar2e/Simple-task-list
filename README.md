@@ -7,10 +7,10 @@ This application is a task management tool that allows users to manage their tas
 This application simplifies task management by combining traditional task operations with machine learning capabilities for smart recommendations.
 
 1. Add Task
-Allows users to input a detailed task description in a large text area.
-Users can set a priority for the task (Low, Medium, or High).
-Validates the priority input and ensures that both the description and priority are entered before adding the task.
-The task is saved in a local CSV file (tasks.csv) for persistence.
+- Allows users to input a detailed task description in a large text area.
+- Users can set a priority for the task (Low, Medium, or High).
+- Validates the priority input and ensures that both the description and priority are entered before adding the task.
+- The task is saved in a local CSV file (tasks.csv) for persistence.
 2. Remove Task
 Users can remove a task by entering its description.
 The app checks for the specified task and removes it from the task list.
