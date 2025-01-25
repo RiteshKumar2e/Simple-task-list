@@ -31,3 +31,10 @@ Make sure you have Python installed along with the required libraries:
 pip install pandas 
 
 pip install scikit-learn
+
+```
+
+# Output 
+
+![image](https://github.com/user-attachments/assets/47b4664e-97c4-4a06-8505-60cf5b5de38b)
+
